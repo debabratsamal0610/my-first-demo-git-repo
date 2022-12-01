@@ -1,4 +1,0 @@
-This is my text file.
-Changes 2
-check diff
-check diff2
