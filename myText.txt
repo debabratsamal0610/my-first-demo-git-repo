@@ -5,3 +5,5 @@ check diff2
 
 check ignore
 check ignored or not
+
+check changes
