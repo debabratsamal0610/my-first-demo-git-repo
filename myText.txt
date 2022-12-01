@@ -1,0 +1,7 @@
+This is my text file.
+Changes 2
+check diff
+check diff2
+
+check ignore
+check ignored or not
